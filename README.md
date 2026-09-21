@@ -71,9 +71,7 @@ Desenvolvedor **Frontend** focado em criar interfaces funcionais, limpas e bem e
   </tr>
 </table>
 
----
 
----
 
 ### 📊 Estatísticas do GitHub
 
