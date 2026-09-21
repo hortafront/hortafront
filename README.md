@@ -3,27 +3,26 @@
 <div align="center">
 
   <!-- Banner Personalizado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=220&section=header&text=Gustavo%20Horta&fontSize=65&fontColor=E50914&animation=fadeIn&stroke=000000" width="100%" alt="Banner Gustavo Horta" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=220&section=header&text=Gustavo%20Horta&fontSize=65&fontColor=E50914&animation=fadeIn" width="100%" alt="Banner Gustavo Horta" />
 
   <br />
 
-  <!-- Typing Animation Ajustado -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E50914&center=true&vCenter=true&width=500&lines=Desenvolvedor+Frontend;HTML+CSS+JavaScript;Python+Git+GitHub;Construindo+experiencias+web" alt="Typing Animation" />
+  <!-- Typing Animation -->
+  <a href="https://github.com/hortafront">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E50914&center=true&vCenter=true&width=500&lines=Desenvolvedor+Frontend;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Python+%E2%80%A2+Git+%E2%80%A2+GitHub" alt="Typing Animation" />
   </a>
 
-  <br />
-  <br />
+  <br /><br />
 
   <!-- Redes Sociais -->
   <a href="https://www.linkedin.com/in/carlos-gustavo-44954a393/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E50914&borderColor=E50914" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E50914" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/Gustahorta._">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E50914&borderColor=E50914" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E50914" alt="Instagram" />
   </a>
   <a href="https://github.com/hortafront">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E50914&borderColor=E50914" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E50914" alt="GitHub" />
   </a>
 
 </div>
@@ -76,9 +75,7 @@ Desenvolvedor **Frontend** focado em criar interfaces funcionais, limpas e bem e
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hortafront&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=hortafront&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -87,13 +84,13 @@ Desenvolvedor **Frontend** focado em criar interfaces funcionais, limpas e bem e
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hortafront&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=E50914&text_color=FFFFFF&icon_color=E50914&border_color=333333&hide_border=false" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hortafront&show_icons=true&theme=dark&title_color=E50914&text_color=FFFFFF&icon_color=E50914&border_color=333333" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hortafront&layout=compact&theme=dark&bg_color=0D0D0D&title_color=E50914&text_color=FFFFFF&border_color=333333&hide_border=false" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hortafront&layout=compact&theme=dark&title_color=E50914&text_color=FFFFFF&border_color=333333" alt="Top Languages" />
 
   <br /><br />
 
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=hortafront&theme=dark&background=0D0D0D&ring=E50914&fire=E50914&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=E50914&dates=888888&border=333333" alt="GitHub Streak" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=hortafront&theme=dark&background=0D0D0D&ring=E50914&fire=E50914&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=E50914&border=333333" alt="GitHub Streak" />
 
 </div>
 
@@ -102,7 +99,7 @@ Desenvolvedor **Frontend** focado em criar interfaces funcionais, limpas e bem e
 ### 📈 Gráfico de Atividades
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hortafront&theme=react-dark&bg_color=0D0D0D&color=E50914&line=E50914&point=FFFFFF&area=true&hide_border=false&border=333333" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hortafront&theme=github-dark&color=E50914&line=E50914&point=FFFFFF&area=true&hide_border=false" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -110,17 +107,11 @@ Desenvolvedor **Frontend** focado em criar interfaces funcionais, limpas e bem e
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hortafront/hortafront/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hortafront/hortafront/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hortafront/hortafront/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/hortafront/hortafront/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
-
-> *Nota: Para ver o efeito do jogo da cobrinha (Snake) funcionando perfeitamente, certifique-se de configurar a **GitHub Action** no seu repositório.*
 
 ---
 
 <div align="center">
-  <sub>Criado com dedicação por <b>Gustavo Horta</b> • Minimalismo & Código</sub>
+  <sub>Criado por <b>Gustavo Horta</b> • Minimalismo & Código</sub>
 </div>
