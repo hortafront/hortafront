@@ -86,17 +86,7 @@ Desenvolvedor **Frontend** focado em criar interfaces funcionais, limpas e bem e
   <br /><br />
 
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=hortafront&theme=dark&background=0D0D0D&ring=E50914&fire=E50914&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=E50914&dates=888888&border=333333" alt="GitHub Streak" />
-
 </div>
-
----
-
-
-
----
-
-
----
 
 <div align="center">
   <sub>Criado com dedicação por <b>Gustavo Horta</b> • Minimalismo & Código</sub>
