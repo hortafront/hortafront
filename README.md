@@ -7,12 +7,13 @@
 
   <br />
 
-  <!-- Typing Animation -->
+  <!-- Typing Animation Estável -->
   <a href="https://github.com/hortafront">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E50914&center=true&vCenter=true&width=500&lines=Desenvolvedor+Frontend;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Python+%E2%80%A2+Git+%E2%80%A2+GitHub" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E50914&center=true&vCenter=true&width=500&lines=Desenvolvedor+Frontend;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+Git+%7C+GitHub;Construindo+experiencias+web" alt="Typing Animation" />
   </a>
 
-  <br /><br />
+  <br />
+  <br />
 
   <!-- Redes Sociais -->
   <a href="https://www.linkedin.com/in/carlos-gustavo-44954a393/">
@@ -75,7 +76,9 @@ Desenvolvedor **Frontend** focado em criar interfaces funcionais, limpas e bem e
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hortafront&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hortafront&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
@@ -84,13 +87,13 @@ Desenvolvedor **Frontend** focado em criar interfaces funcionais, limpas e bem e
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hortafront&show_icons=true&theme=dark&title_color=E50914&text_color=FFFFFF&icon_color=E50914&border_color=333333" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=hortafront&show_icons=true&theme=dark&title_color=E50914&text_color=FFFFFF&icon_color=E50914&border_color=333333" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hortafront&layout=compact&theme=dark&title_color=E50914&text_color=FFFFFF&border_color=333333" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hortafront&layout=compact&theme=dark&title_color=E50914&text_color=FFFFFF&border_color=333333" alt="Top Languages" />
 
   <br /><br />
 
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=hortafront&theme=dark&background=0D0D0D&ring=E50914&fire=E50914&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=E50914&border=333333" alt="GitHub Streak" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=hortafront&theme=dark&background=0D0D0D&ring=E50914&fire=E50914&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=E50914&dates=888888&border=333333" alt="GitHub Streak" />
 
 </div>
 
@@ -99,7 +102,7 @@ Desenvolvedor **Frontend** focado em criar interfaces funcionais, limpas e bem e
 ### 📈 Gráfico de Atividades
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hortafront&theme=github-dark&color=E50914&line=E50914&point=FFFFFF&area=true&hide_border=false" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hortafront&theme=react-dark&bg_color=0D0D0D&color=E50914&line=E50914&point=FFFFFF&area=true&hide_border=false&border=333333" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -107,11 +110,11 @@ Desenvolvedor **Frontend** focado em criar interfaces funcionais, limpas e bem e
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hortafront/hortafront/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/hortafront/hortafront/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Criado por <b>Gustavo Horta</b> • Minimalismo & Código</sub>
+  <sub>Criado com dedicação por <b>Gustavo Horta</b> • Minimalismo & Código</sub>
 </div>
