@@ -7,9 +7,9 @@
 
   <br />
 
-  <!-- Typing Animation -->
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E50914&center=true&vCenter=true&width=500&lines=Desenvolvedor+Frontend;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Python+%E2%80%A2+Git+%E2%80%A2+GitHub;Construindo+experi%C3%AAncias+web+únicas" alt="Typing Animation" />
+  <!-- Typing Animation Ajustado -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E50914&center=true&vCenter=true&width=500&lines=Desenvolvedor+Frontend;HTML+CSS+JavaScript;Python+Git+GitHub;Construindo+experiencias+web" alt="Typing Animation" />
   </a>
 
   <br />
