@@ -73,14 +73,6 @@ Desenvolvedor **Frontend** focado em criar interfaces funcionais, limpas e bem e
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hortafront&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</div>
-
 ---
 
 ### 📊 Estatísticas do GitHub
@@ -99,19 +91,10 @@ Desenvolvedor **Frontend** focado em criar interfaces funcionais, limpas e bem e
 
 ---
 
-### 📈 Gráfico de Atividades
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hortafront&theme=react-dark&bg_color=0D0D0D&color=E50914&line=E50914&point=FFFFFF&area=true&hide_border=false&border=333333" width="100%" alt="Activity Graph" />
-</div>
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hortafront/hortafront/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
 
 ---
 
