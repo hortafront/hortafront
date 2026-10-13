@@ -1,4 +1,4 @@
-<img src="assets/banner.png" width="100%" alt="Gustavo Horta. Jogador 1, desenvolvedor frontend." />
+<img src="assets/banner.png" width="100%" alt="Gustavo Horta. Jogador 1, desenvolvedor frontend e backend." />
 
 Gosto de interface limpa, código organizado e de passar uma fase por vez.
 
