@@ -19,4 +19,4 @@ Node.js       ▰▱▱▱▱
 
 ### Multiplayer
 
-[LinkedIn](https://www.linkedin.com/in/carlos-gustavo-44954a393/) &nbsp;&nbsp; [Instagram](https://instagram.com/Gustahorta._)
+<a href="https://www.linkedin.com/in/carlos-gustavo-44954a393/"><img src="assets/linkedin.svg" width="222" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://instagram.com/Gustahorta._"><img src="assets/instagram.svg" width="222" alt="Instagram" /></a>
