@@ -1,91 +1,87 @@
-# 👋 Olá, eu sou o Gustavo Horta
-
 <div align="center">
 
-  <!-- Banner Personalizado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=220&section=header&text=Gustavo%20Horta&fontSize=65&fontColor=E50914&animation=fadeIn" width="100%" alt="Banner Gustavo Horta" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=200&section=header&text=Gustavo%20Horta&fontSize=60&fontColor=E50914&desc=Desenvolvedor%20Frontend%20%C2%B7%20Estudante%20de%20ADS&descSize=18&descAlignY=72&descColor=FFFFFF&animation=fadeIn" width="100%" alt="Gustavo Horta — Desenvolvedor Frontend e estudante de ADS" />
 
-  <br />
+  <p><b>🎯 Em busca de estágio em desenvolvimento frontend</b></p>
 
-  <!-- Typing Animation Estável -->
-  <a href="https://github.com/hortafront">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E50914&center=true&vCenter=true&width=500&lines=Desenvolvedor+Frontend;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+Git+%7C+GitHub;Construindo+experiencias+web" alt="Typing Animation" />
-  </a>
-
-  <br />
-  <br />
-
-  <!-- Redes Sociais -->
   <a href="https://www.linkedin.com/in/carlos-gustavo-44954a393/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E50914" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=E50914" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/Gustahorta._">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E50914" alt="Instagram" />
+  <a href="mailto:hortafront@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=E50914" alt="E-mail" />
   </a>
-  <a href="https://github.com/hortafront">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E50914" alt="GitHub" />
+  <a href="https://github.com/hortafront?tab=repositories">
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-111111?style=for-the-badge&logo=github&logoColor=E50914" alt="Repositórios" />
   </a>
 
 </div>
 
 ---
 
-### 🖤 Sobre Mim
+### 🖤 Sobre mim
 
-Desenvolvedor **Frontend** focado em criar interfaces funcionais, limpas e bem estruturadas. Tenho apreço pelos detalhes visuais, pela organização de código e por transformar conceitos em código legível e eficiente.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvo interfaces web, do HTML e CSS puros a aplicações em **React e Next.js com TypeScript**.
 
-* 💻 Atuando na criação de aplicações web com foco em performance e experiência de uso.
-* 🛠️ Trabalhando com **HTML, CSS, JavaScript** no ecossistema web e **Python** no apoio a scripts e lógica.
-* 🎯 Sempre buscando aperfeiçoar o fluxo de versionamento com **Git e GitHub**.
+- 🎯 Procuro meu primeiro **estágio em desenvolvimento frontend**.
+- 💻 Gosto de código organizado, layout responsivo e atenção aos detalhes visuais.
+- 📚 Estudando atualmente: TypeScript, React e consumo de APIs.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E50914" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=E50914" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=E50914" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=E50914" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=E50914" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=E50914" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=E50914" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=E50914" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=E50914" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=E50914" alt="Python" />
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=E50914" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=E50914" alt="GitHub" />
 </div>
 
 ---
 
-### 📌 Projetos em Destaque
+### 📌 Projetos em destaque
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
-      <h3 align="center">🍕 Barão da Pizzaria</h3>
-      <p align="center">
-        Projeto web desenvolvido com foco em layout fluido, navegação intuitiva e estrutura limpa para apresentação de cardápio e serviços.
-      </p>
-      <p align="center">
-        <a href="https://github.com/hortafront/barao-da-pizzaria">
-          <img src="https://img.shields.io/badge/Acessar_Repositório-111111?style=for-the-badge&logo=github&logoColor=E50914" alt="Ver Repositório" />
-        </a>
-      </p>
+    <td width="50%" valign="top">
+      <h4>🎬 <a href="https://github.com/hortafront/catalogo-de-streaming">Catálogo de Streaming</a></h4>
+      <p>Filmes disponíveis nos serviços de streaming do Brasil, com filtros por serviço, gênero, ano e nota, busca por nome e lista "quero ver". Dados da API do TMDB.</p>
+      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>TanStack Query</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎓 <a href="https://github.com/hortafront/sistema-gestao-treinamentos">Gestão de Treinamentos (SGTC)</a></h4>
+      <p>Tela de login de um sistema corporativo de treinamentos, com cinco perfis de acesso, validação de formulário, bloqueio após tentativas erradas e tema escuro.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📝 <a href="https://github.com/hortafront/cadastro-de-aluno">Cadastro de Aluno</a></h4>
+      <p>Formulário de cadastro ligado a uma API própria em Express, com rotas para cadastrar e listar alunos.</p>
+      <p><code>JavaScript</code> <code>Node.js</code> <code>Express</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🍕 <a href="https://github.com/hortafront/barao-da-pizzaria">Barão da Pizzaria</a></h4>
+      <p>Site de pizzaria com apresentação do cardápio e dos serviços, em layout responsivo.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Estatísticas do GitHub
-
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=hortafront&show_icons=true&theme=dark&title_color=E50914&text_color=FFFFFF&icon_color=E50914&border_color=333333" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hortafront&layout=compact&theme=dark&title_color=E50914&text_color=FFFFFF&border_color=333333" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hortafront&layout=compact&theme=dark&title_color=E50914&text_color=FFFFFF&border_color=333333&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" />
 
   <br /><br />
 
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=hortafront&theme=dark&background=0D0D0D&ring=E50914&fire=E50914&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=E50914&dates=888888&border=333333" alt="GitHub Streak" />
-</div>
+  <sub>Aberto a oportunidades de estágio · <a href="https://www.linkedin.com/in/carlos-gustavo-44954a393/">fale comigo no LinkedIn</a></sub>
 
-<div align="center">
-  <sub>Criado com dedicação por <b>Gustavo Horta</b> • Minimalismo & Código</sub>
 </div>
