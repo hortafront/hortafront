@@ -50,4 +50,4 @@ Sistema de gestão de inventário com dashboard, entradas e saídas de estoque e
 
 ### Multiplayer
 
-<a href="https://www.linkedin.com/in/carlos-gustavo-44954a393/"><img src="assets/linkedin.svg" width="222" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://instagram.com/Gustahorta._"><img src="assets/instagram.svg" width="222" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/carlos-gustavo-44954a393/"><img src="assets/linkedin.svg" width="240" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://instagram.com/Gustahorta._"><img src="assets/instagram.svg" width="240" alt="Instagram" /></a>&nbsp;&nbsp;<a href="https://wa.me/5585992732247"><img src="assets/whatsapp.svg" width="240" alt="WhatsApp" /></a>
