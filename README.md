@@ -12,6 +12,8 @@ Gosto de resolver problemas, tirar ideias do papel e transformá-las em algo bon
 
 Desenvolvendo o Controle de Estoque em equipe e subindo de nível em JavaScript.
 
+<img src="assets/divisor.svg" width="100%" alt="" />
+
 ### Desbloqueado
 
 ```text
@@ -30,11 +32,27 @@ SQL           ▰▰▱▱▱
 Node.js       ▰▱▱▱▱
 ```
 
+<img src="assets/divisor.svg" width="100%" alt="" />
+
 ### Missões
 
 **[Controle de Estoque](https://github.com/alanfelipe01/sistema-estoque)** · em andamento · projeto em equipe
 
 Sistema de gestão de inventário com dashboard, entradas e saídas de estoque e cadastro de produtos, fornecedores e usuários.
+
+**[Catálogo de Streaming](https://github.com/hortafront/catalogo-de-streaming)** · Next.js, React e TypeScript
+
+Catálogo dos filmes disponíveis nos streamings do Brasil, com filtros, busca e lista "quero ver".
+
+**[Sistema de Gestão de Treinamentos](https://github.com/hortafront/sistema-gestao-treinamentos)** · HTML e CSS
+
+Front-end de um sistema de treinamentos corporativos: tela de login com perfis de acesso, validação e tema escuro.
+
+**[Barão da Pizzaria](https://github.com/hortafront/barao-da-pizzaria)** · HTML, CSS e JavaScript
+
+Site responsivo de pizzaria com cardápio e serviços.
+
+<img src="assets/divisor.svg" width="100%" alt="" />
 
 ### Placar
 
@@ -47,6 +65,8 @@ Sistema de gestão de inventário com dashboard, entradas e saídas de estoque e
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hortafront/Hortafront/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/Hortafront/Hortafront/output/github-contribution-grid-snake.svg" width="100%" alt="Cobrinha comendo as contribuições do GitHub" />
 </picture>
+
+<img src="assets/divisor.svg" width="100%" alt="" />
 
 ### Multiplayer
 
