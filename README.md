@@ -70,4 +70,4 @@ Site responsivo de pizzaria com cardápio e serviços.
 
 ### Multiplayer
 
-<a href="www.linkedin.com/in/carlosgustavodev"><img src="assets/linkedin.svg" width="240" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://instagram.com/Gustahorta._"><img src="assets/instagram.svg" width="240" alt="Instagram" /></a>&nbsp;&nbsp;<a href="https://wa.me/5585992732247"><img src="assets/whatsapp.svg" width="240" alt="WhatsApp" /></a>
+<a href="https://www.linkedin.com/in/carlosgustavodev/"><img src="assets/linkedin.svg" width="240" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://instagram.com/Gustahorta._"><img src="assets/instagram.svg" width="240" alt="Instagram" /></a>&nbsp;&nbsp;<a href="https://wa.me/5585992732247"><img src="assets/whatsapp.svg" width="240" alt="WhatsApp" /></a>
